@@ -1,4 +1,22 @@
----
+Uncaught ReferenceError: ReactDOM is not defined
+    at ./src/index.js (index.js:4:1)
+    at options.factory (react refresh:37:1)
+    at __webpack_require__ (bootstrap:28:1)
+    at startup:7:1
+    at startup:7:1Understand this error
+WebSocketClient.js:13 WebSocket connection to 'wss://stunning-fishstick-q759grjr9566hx6g6-3000.app.github.dev:3000/ws' failed: 
+WebSocketClient @ WebSocketClient.js:13Understand this error
+WebSocketClient.js:13 WebSocket connection to 'wss://stunning-fishstick-q759grjr9566hx6g6-3000.app.github.dev:3000/ws' failed: 
+WebSocketClient @ WebSocketClient.js:13Understand this error
+WebSocketClient.js:13 WebSocket connection to 'wss://stunning-fishstick-q759grjr9566hx6g6-3000.app.github.dev:3000/ws' failed: 
+WebSocketClient @ WebSocketClient.js:13Understand this error
+WebSocketClient.js:13 WebSocket connection to 'wss://stunning-fishstick-q759grjr9566hx6g6-3000.app.github.dev:3000/ws' failed: 
+WebSocketClient @ WebSocketClient.js:13Understand this error
+WebSocketClient.js:13 WebSocket connection to 'wss://stunning-fishstick-q759grjr9566hx6g6-3000.app.github.dev:3000/ws' failed: 
+WebSocketClient @ WebSocketClient.js:13Understand this error
+WebSocketClient.js:13 WebSocket connection to 'wss://stunning-fishstick-q759grjr9566hx6g6-3000.app.github.dev:3000/ws' failed: 
+WebSocketClient @ WebSocketClient.js:13Understand this error
+WebSocketClient.js:13 WebSocket connection to 'wss://stunning-fishstick-q759grjr9566hx6g6-3000.app.github.dev:3000/ws' failed: ---
 applyTo: "octofit-tracker/frontend/**"
 ---
 # Octofit-tracker Fitness App React frontend Guidelines
