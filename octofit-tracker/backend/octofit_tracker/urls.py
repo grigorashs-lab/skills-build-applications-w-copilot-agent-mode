@@ -16,6 +16,11 @@ Including another URLconf
 
 from django.contrib import admin
 from django.urls import path, include
+import os
+
+# Construct base_url for API endpoints (for reference)
+codespace_name = os.environ.get('CODESPACE_NAME')
+base_url = f"https://{codespace_name}-8000.app.github.dev" if codespace_name else "http://localhost:8000"
 
 urlpatterns = [
     path('admin/', admin.site.urls),
